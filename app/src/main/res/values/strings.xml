@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">MaterialDesign</string>
+    <string name="content_description_search">search</string>
+    <string name="content_description_more">more</string>
+    <string name="search">search</string>
+    <string name="more">more</string>
+
+    <string name="title">close dialog</string>
+    <string name="supporting_text">Are you sure???</string>
+    <string name="cancel">cancel</string>
+    <string name="decline">decline</string>
+    <string name="accept">accept</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="label_1">lable 1</string>
+    <string name="label_2">lable 2</string>
+    <string name="label_3">lable 3</string>
+    <string name="label_4">lable 4</string>
+    <string name="label_5">lable 5</string>
+
+    <string-array name="planets_array">
+        <item>planet</item>
+        <item>planet1</item>
+        <item>planet2</item>
+        <item>planet3</item>
+        <item>planet4</item>
+        <item>planet5</item>
+        <item>planet6</item>
+        <item>planet7</item>
+    </string-array>
+
+</resources>
